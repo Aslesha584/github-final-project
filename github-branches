@@ -1,7 +1,8 @@
 git branch
 
-* main
+  bug-fix-revert
   bug-fix-typo
+* main
 
 git status
 
